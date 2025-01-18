@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Baloo';
+    src: url("/src/font/Baloo-Regular.ttf") format("truetype");
+    font-style: normal;
+}
+
+:root {
+    --background: #100429;
+    --grey-purple: #6F687E;
+    --purple: #4A2574;
+    --light-purple: #CF96FF;
+    --stroke-gray: #6F687E;
+    --input-gray: #3F3653;
+    --white: #ffff;
+    --basic-blue: #2E86C1;
+    --intermediate-yellow: #D4AC0D;
+    --advance-red: #C0392B;
+    --dark-blue: #174360;
+    --semidark-blue: #205D87;
+    --dark-yellow: #6A5606;
+    --semidark-yellow: #947809;
+    --dark-red: #601C15;
+    --semidark-red: #86271E;
+
+
+} 
